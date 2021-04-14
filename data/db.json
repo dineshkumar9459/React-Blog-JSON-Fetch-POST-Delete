@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "My First Blog",
+      "body": "I looked into what other bloggers whom I admired were using, and the Cadillac of platforms is WordPress.com, hands down. The themes are breathtaking — even the free ones! — and all of the supporting infrastructure and information is top shelf.\n\nWordPress.com works really well with Google for a great SEO ranking. I can also embed YouTube videos, Google Maps, and other content easily and without any coding ability.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "News Blog",
+      "body": "Back in 1985 — when all of us were a lot younger — or maybe not even born yet — a stellar group of American musicians got together to sing “We are the World”, a “charity single” that topped music charts throughout the world and became the fastest-selling U.S. pop single in history. \n\nTimes were tough in 1985, but the sentiment of “We Are the World” — it’s true we make a better day just you and me — hit a sweet spot, in a world starved for solidarity. Many of its great artists are no longer with us. So, even if you thought it too cheesy back then, take another listen now. \n\nNo song could break the chains of Apartheid in Southern Africa or stop Reagan’s Contras in Central America, but this song played everywhere from Los Angeles to Soweto and raised $63 million (equivalent to more than $147 million today) for humanitarian aid in Africa and the U.S.\n\nThe good vibes swept the world, even in places like Nicaragua — then under siege by U.S. backed terrorists. “We are the World” boomed from the loudspeakers of the gigantic July 19th rally in Managua commemorating the 6th anniversary of their revolution…with Soviet built helicopters buzzing overhead — and Burlington Vermont Mayor, Bernie Sanders there to promote peace and solidarity.  \n\nA lesser known part of this story is that a few thousand dollars of the money raised by the song went to launch a new, anti-imperialist human rights organization called Global Exchange. It turned out to be a good investment.",
+      "author": "Joseph",
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+npx create-react-app appname
+
+code .
+
+npm run start
+
+npm install
+
+npx json-server --watch data/db.json --port 8000
+
+React-Blog-JSON-Fetch-POST-Delete
